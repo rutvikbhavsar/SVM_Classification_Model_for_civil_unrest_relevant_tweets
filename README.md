@@ -68,7 +68,8 @@ tweet['text_items'][1] == list of hashtags in the text.
 tweet['text_items'][2] == list of user mentions in the text. 
 tweet['text_items'][3] == list of links in the text. 
 ```
-
+## Output
+![Output result](output/result.PNG)
 
 ## Overview
 
